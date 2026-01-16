@@ -1,2 +1,2 @@
 # BankAccount_lab
-As project
+By creating a BankAccount class with private data members and public methods, encapsulation is achieved, ensuring data security and controlled access to account information. The use of a constructor allows proper initialization of objects, while methods like deposit and withdraw handle account transactions with appropriate validation. Testing the class in the Main program confirms that the account behaves correctly under different operations. Overall, this exercise strengthens understanding of Java classes, objects, methods, and basic control structures in a practical and meaningful way.
